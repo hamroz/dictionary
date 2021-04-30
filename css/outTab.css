@@ -1,0 +1,31 @@
+.outputTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.outputTable tr,
+td {
+  border: 1px solid #ebebeb;
+}
+
+.outputTitle {
+  margin-top: 30px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.outputTitle p {
+  width: 15%;
+  margin: auto;
+}
+
+.outputTable td {
+  padding: 30px;
+  font-size: 25px;
+}
+
+.colored {
+  background-color: #f6f6f6;
+  font-weight: 800;
+  margin-right: 20px;
+}
