@@ -2,5 +2,6 @@
 # Dictionary (Shugni to English)
 Dictionary with functionality of adding new words to its database plus viewing them through searching engine.  
 
+## Preview of Main Page
+![Selection_069](https://user-images.githubusercontent.com/62178569/116743226-10079e00-aa12-11eb-8a43-a93a6ceab836.png)
 
-![Selection_068](https://user-images.githubusercontent.com/62178569/116743140-ed758500-aa11-11eb-9fc6-39e8df11602d.png)
